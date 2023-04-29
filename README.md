@@ -9,7 +9,7 @@ You now have Buton's Money Mod, which contains dollars, euros, and more. Even an
 ## Requirements
 
 - <a href="https://modrinth.com/mod/fabric-api">Fabric API</a> / <a href="https://modrinth.com/mod/fabric-language-kotlin">Kotlin for Fabric</a>
-- Fabric API (1) / Kotlin for Fabric (2)
+- <a href="https://modrinth.com/mod/qsl">Quilt Standard Libraries</a> / <a href="https://modrinth.com/mod/qkl">Quilted Kotlin Library</a>
 - Quilt API (3) / Quilted Kotlin Libraries (4)
 
 (1) = 
