@@ -11,4 +11,4 @@ You now have Buton's Money Mod, which contains dollars, euros, and more. Even an
 - <a href="https://modrinth.com/mod/fabric-api">Fabric API</a> + <a href="https://modrinth.com/mod/fabric-language-kotlin">Kotlin for Fabric</a>
 - <a href="https://modrinth.com/mod/qsl">Quilted Standard Libraries</a> + <a href="https://modrinth.com/mod/qkl">Quilted Kotlin Library</a>
 
-*There will not be a *forge* version ever*
+*There will not be a **forge** version ever*
