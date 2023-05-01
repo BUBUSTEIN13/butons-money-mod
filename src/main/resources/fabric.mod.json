@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "butonmoneymod",
+	"version": "${version}",
+	"name": "buton-money-mod",
+	"description": "This is the best money mod you ever seen!",
+	"authors": [
+		"BUBUSTEIN"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GNU-GPL-2.0",
+	"icon": "assets/buton-money-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.buton.money.MoneyMod"
+		]
+	},
+	"mixins": [
+		"buton-money-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
