@@ -1,7 +1,18 @@
 {
   "item.butonmoneymod.five_euros": "5 Euros",
   "item.butonmoneymod.ten_euros": "10 Euros",
-  "item.butonmoneymod.one_dollar": "1 Dollar",
   "item.butonmoneymod.twenty_euros": "20 Euros",
+  "item.butonmoneymod.fifty_euros": "50 Euros",
+  "item.butonmoneymod.hundred_euros": "100 Euros",
+  "item.butonmoneymod.two_hundred_euros": "200 Euros",
+  "item.butonmoneymod.five_hundred_euros": "500 Euros",
+
+  "item.butonmoneymod.one_dollar": "1 Dollar",
+  "item.butonmoneymod.two_dollars": "2 Dollars",
+  "item.butonmoneymod.five_dollars": "5 Dollars",
+  "item.butonmoneymod.ten_dollars": "10 Dollars",
+  "item.butonmoneymod.twenty_dollars": "20 Dollars",
+  "item.butonmoneymod.fifty_dollars": "50 Dollars",
+  "item.butonmoneymod.hundred_dollars": "100 Dollars",
   "itemGroup.butonmoneymod.five_euros": "Buton's Money Mod"
 }

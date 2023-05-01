@@ -13,7 +13,27 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
     public static final Item Euro20 = registerItem("twenty_euros",
             new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Euro50 = registerItem("fifty_euros",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Euro100 = registerItem("hundred_euros",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Euro200 = registerItem("two_hundred_euros",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Euro500 = registerItem("five_hundred_euros",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
     public static final Item Dollar1 = registerItem("one_dollar",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar2 = registerItem("two_dollars",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar5 = registerItem("five_dollars",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar10 = registerItem("ten_dollars",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar20 = registerItem("twenty_dollars",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar50 = registerItem("fifty_dollars",
+            new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
+    public static final Item Dollar100 = registerItem("hundred_dollars",
             new Item(new FabricItemSettings().group(ModItemGroup.Banknotes)));
 
 
