@@ -19,16 +19,19 @@ You now have Buton's Money Mod, which contains dollars, euros, and more. Even an
   <tr>
     <th>Date</th>
     <th>Version</th>
+    <th>Code Name</th>
     <th>Name</th>
   </tr>
   <tr>
-    <td>1/1/2000</td>
-    <td>1.19.2/1.19.4</td>
-    <td>Release 1.0</td>
+    <td>1 May 2023</td>
+    <td>1.19.2</td>
+    <td>American and European Worker's Wage</td>
+    <td>Beta 1</td>
   </tr>
   <tr>
-    <td>1/1/2100</td>
-    <td>1.20.0</td>
-    <td>Release 2.0</td>
+    <td> ??? </td>
+    <td>1.19.2</td>
+    <td> ??? </td>
+    <td>Beta 2</td>
   </tr>
 </table> 
