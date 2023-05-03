@@ -24,17 +24,12 @@ You now have Buton's Money Mod, which contains dollars, euros, and more. Even an
    <th>Maintenance</th>
   </tr>
   <tr>
-    <td>1 May 2023</td>
+    <td><p style="background-color:Orange;"> 1 May 2023 </p></td>
     <td>1.19.2</td>
     <td>American and European Worker's Wage</td>
     <td>Beta 1</td>
-   <td>FULL</td>
+   <td><p style="background-color:Orange;"> FULL </p> </td>
   </tr>
   <tr>
-    <td> </td>
-    <td>1.19.2</td>
-    <td> </td>
-    <td>Beta 2</td>
-   <td></td>
   </tr>
 </table> 
