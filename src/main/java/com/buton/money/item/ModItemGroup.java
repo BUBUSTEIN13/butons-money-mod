@@ -2,12 +2,18 @@ package com.buton.money.item;
 
 
 import com.buton.money.MoneyMod;
-import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
-    public static final ItemGroup Banknotes = FabricItemGroupBuilder.build(
-            new Identifier(MoneyMod.MOD_ID, "five_euros"), () -> new ItemStack(ModItems.Euro5));
+    public static ItemGroup Banknotes;
+
+        public static void registerItemGroup() {
+            Banknotes = FabricItemGroup.builder(new Identifier(MoneyMod.MOD_ID, "five_euros"))
+                    .displayName(Text.literal("Buton's Money Mod"))
+                    .icon(() -> new ItemStack(ModItems.Euro5)).build();
+        }
 }

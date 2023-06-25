@@ -1,5 +1,7 @@
 package com.buton.money;
 
+
+import com.buton.money.item.ModItemGroup;
 import net.fabricmc.api.ModInitializer;
 import com.buton.money.item.ModItems;
 import org.slf4j.Logger;
@@ -14,8 +16,9 @@ public class MoneyMod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
+        ModItemGroup.registerItemGroup();
         ModItems.registerModItems();
+
 
     }
 }
